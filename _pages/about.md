@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>IRSS: Integrated Remote Sensing Studio, the University of British Columbia</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>IRSS: Integrated Remote Sensing Studio, the University of British Columbia </a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
