@@ -437,8 +437,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-we-uploaded-our-benchmark-dataset-3dbiodataset-for-building-indoor-ourdoor-point-clouds-to-zenodo",
+          title: 'We uploaded our benchmark dataset (3DBIODataset for building indoor ourdoor point clouds) to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
