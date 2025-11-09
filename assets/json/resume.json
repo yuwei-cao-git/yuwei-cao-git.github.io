@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "basics": [
     "name": "Yuwei Cao",
     "label": "Postdoc in Forestry🌳, remote sensing 🛰️, Deep learning",
     "image": "",
@@ -12,12 +12,12 @@
         "url": "https://www.linkedin.com/in/yuwei-cao-00ba8527a/"
       }
     ]
-  },
+  ],
   "work": [
     {
       "name": "The University of British Columbia",
       "position": "Postdoctoral Research Fellow",
-      "startDate": "1933-01-01",
+      "startDate": "2024-06",
     }
   ],
   "education": [
