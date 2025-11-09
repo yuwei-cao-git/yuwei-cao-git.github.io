@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🎉 Our new paper [“Enhancing tree species composition mapping using Sentinel-2 and multi-seasonal deep learning fusion”](https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2583600) is now published in The International Journal of Remote Sensing!
