@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We uploaded our benchmark dataset (3DBIODataset for building indoor ourdoor point clouds) to [Zenodo](https://doi.org/10.5281/zenodo.17400553)!
