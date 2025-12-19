@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yuwei-cao-git
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - yuwei-cao-git/M3F-Net
+  - yuwei-cao-git/DRI-EDIA-F4A
+  - yuwei-cao-git/SRS-Net
+  - yuwei-cao-git/biodataset
