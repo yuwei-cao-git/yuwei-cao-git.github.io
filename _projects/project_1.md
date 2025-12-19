@@ -25,5 +25,3 @@ project page: [github page](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/)
   </div>
 </div>
 ```
-
-{% endraw %}
