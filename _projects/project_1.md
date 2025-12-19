@@ -16,8 +16,7 @@ Forestry professionals, environmental researchers, and policy makers are working
 
 year: 2024-2025
 
-link: https://yuwei-cao-git.github.io/DRI-EDIA-F4A/
-{% raw %}
+project page: [github page](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/)
 
 ```html
 <div class="row justify-content-sm-center">
