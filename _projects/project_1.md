@@ -1,12 +1,15 @@
 ---
 layout: page
-title: DRI-EDIA-F4A: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All
+title: "DRI-EDIA-F4A: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All"
 description: with background image
 img: assets/img/1.jpg
 importance: 1
 category: work
 related_publications: true
+year: "2024–2025"
+project_page: https://yuwei-cao-git.github.io/DRI-EDIA-F4A/
 ---
+
 
 <div class="caption">
     DRI-EDIA-F4A: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All
