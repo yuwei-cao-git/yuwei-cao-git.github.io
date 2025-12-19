@@ -9,67 +9,33 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Politecnico di Milano
-      year: 2019
+      year: 2019 - 2023
       description:
         - Explainable 3D deep learning networks 
         - unsupervised learning, transfer learning, and weakly supervised learning methods for architectural cultural heritage building's understanding
         - Integration of point clouds from 360 degrees videos and deep learning techniques for rapid documentation and classification in historical city centres.
-    - title: Master
+    - title: M.Sc.
       institution: Nanjing Normal University
-      year: 2016
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: 
-      institution: 
-      year: 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: 
-      institution: 
-      year: 
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: 
-      institution: 
-      year: 
-
-    - title: 
-      institution: 
-      year: 
-      description:
-
-- title: Open Source Projects
-  type: time_table
-  contents: DRI-EDIA-F4A: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All
-    - title: <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/">al-folio</a>
-      year: 2024-2025
-      description: Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
-        - 
+      year: 2016 - 2019
+    - title: B.Sc.
+      institution: Yunan Normal University
+      year: 2012 - 2016
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Remote Sensing.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Satellite Imagery processing and understanding.
+        - LiDAR data acquisition, processing, and understanding.
+    - title: Deep Learning.
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Geospatial data generation and understanding.
+        - Transfer learning, weakly-supervised learning, self-supervised learning.
+        - Photogrammetry.
+    - title: Forest Monitorning.
+      items:
+        - Tree species & composition estimation.
+        - Individual tree attributes/forest structure estimation.
