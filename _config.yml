@@ -341,6 +341,9 @@ external_links:
   target: _blank
   exclude:
 
+htmlproofer:
+  disable_external: true
+
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
