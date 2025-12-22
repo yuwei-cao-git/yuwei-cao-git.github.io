@@ -429,11 +429,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-4",
-          title: 'Announcement_4',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
             },},{id: "news-we-uploaded-our-benchmark-dataset-3dbiodataset-for-building-indoor-ourdoor-point-clouds-to-zenodo",
           title: 'We uploaded our benchmark dataset (3DBIODataset for building indoor ourdoor point clouds) to...',
           description: "",
@@ -445,6 +440,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-announcement-4",
+          title: 'Announcement_4',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-dri-edia-f4a-advancing-equity-in-forestry-digital-research-infrastructure-and-deep-learning-for-all",
           title: 'DRI-EDIA-F4A: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All...',
           description: "with background image",
