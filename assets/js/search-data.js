@@ -438,7 +438,7 @@ ninja.data = [{
           title: 'We uploaded our benchmark dataset (3DBIODataset for building indoor ourdoor point clouds) to...',
           description: "",
           section: "News",},{id: "news-our-new-paper-enhancing-tree-species-composition-mapping-using-sentinel-2-and-multi-seasonal-deep-learning-fusion-is-now-published-in-the-international-journal-of-remote-sensing",
-          title: '[ 🎉 Our new paper “Enhancing tree species composition mapping using Sentinel-2 and...',
+          title: '🎉 Our new paper “Enhancing tree species composition mapping using Sentinel-2 and multi-seasonal...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
