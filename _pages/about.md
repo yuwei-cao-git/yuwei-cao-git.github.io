@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Integrated Remote Sensing Studio, the University of British Columbia </a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Integrated Remote Sensing Studio, the University of British Columbia </a>. 
 
 profile:
   align: right
@@ -32,5 +32,3 @@ Yuwei Cao is a Geo-information engineer with a specialized focus on 3D point clo
 Yuwei utilizes LIDAR and other remote sensing data to assess stand species composition in the IRSS lab at the University of British Columbia (UBC). This innovative approach will enhance the precision and efficiency of environmental assessments and contribute valuable insights to the field of remote sensing.
 
 Outside of her professional pursuits, Yuwei is passionate about outdoor activities. She enjoys hiking, skiing, camping, and trekking, finding inspiration and rejuvenation in nature.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
